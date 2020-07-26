@@ -33,5 +33,4 @@ const amadeuszblanik = {
 * web: [blanik.me](https://blanik.me)
 * linked-in: [Amadeusz Blanik](https://www.linkedin.com/public-profile/in/amadeuszblanik)
 
- <a href='http://www.freevisitorcounters.com'>www.Freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8673a126c14225985e8e092339b09f6a3899d61e'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/726446/t/5"></script>
+![Profile views](https://gpvc.arturio.dev/amadeuszblanik)
