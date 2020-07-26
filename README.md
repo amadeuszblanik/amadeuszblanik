@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 Hi there,
 I am a Frontend Developer with highly skilled React, but my competitions go far beyond that. I selected modern and demanded skills that I use in my daily work.
 
 <img align='right' src="https://raw.githubusercontent.com/amadeuszblanik/amadeuszblanik/master/logo.svg" alt="logo" width="128"/>
