@@ -1,5 +1,5 @@
 ### 👋 Hi there,
-I am a Frontend Developer with highly skilled React, but my competitions go far beyond that. I selected modern and demanded skills that I use in my daily work.
+I am a Frontend Developer with highly skilled React and Angular, but my competitions go far beyond that. I selected modern and demanded skills that I use in my daily work.
 
 <img align='right' src="https://raw.githubusercontent.com/amadeuszblanik/amadeuszblanik/master/logo.svg" alt="logo" width="128"/>
 
@@ -9,16 +9,19 @@ const amadeuszblanik = {
   code: ["Javascript", "Typescript", "php"],
   technologies: {
     frontend: {
-      js: ["ES6+", "TypeScript", "React", "Next.JS", "Angular", "Vue.JS"],
+      js: ["ES6+", "TypeScript", "React", "Next.JS", "Angular", "Vue.JS", "Redux", "NgRX", "RxJS"],
       css: ["styled-components", "css-in-js", "sass/css", "post-css", "stylus", "less"],
-      misc: ["Webpack", "GULP"]
+      misc: ["Webpack", "GULP", "i18n", "REST API"]
     },
     backend: {
-      js: ["Node", "Express.JS"],
+      js: ["Node", "Express.JS", "NestJS"],
       php: true,
+      java: true,
+      python: true,
+      restApi: true,
     },
-    devOps: ["AWS", "Docker", "Nginx", "DigitalOcean"],
-    databases: ["MySQL"],
+    devOps: ["AWS", "Docker", "Nginx", "Apache 2.4+" "DigitalOcean"],
+    databases: ["MySQL", "PostgreSQL"],
     operatingSystem: ["macOS", "Ubuntu", "CentOS"],
   },
   askMeAbout: ["web development", "frameworks", "car", "travels"],
