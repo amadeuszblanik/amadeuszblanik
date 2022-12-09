@@ -18,7 +18,7 @@ const amadeuszblanik = {
       php: true,
       java: true,
       python: true,
-      restApi: true,
+      restApi: true
     },
     mobile: {
       ios: ["Swift", "Swift UI", "Alamofire", "Realm"]
