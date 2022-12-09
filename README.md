@@ -20,13 +20,18 @@ const amadeuszblanik = {
       python: true,
       restApi: true,
     },
+    mobile: {
+      ios: ["Swift", "Swift UI", "Alamofire", "Realm"]
+      android: ["Kotlin", "Java", "Realm"]
+    },
     devOps: ["AWS", "Docker", "Nginx", "Apache 2.4+" "DigitalOcean"],
-    databases: ["MySQL", "PostgreSQL"],
-    operatingSystem: ["macOS", "Ubuntu", "CentOS"],
+    ciCd: true,
+    databases: ["MySQL", "MariaDB", "PostgreSQL"],
+    operatingSystem: ["macOS", "Ubuntu", "CentOS"]
   },
-  askMeAbout: ["web development", "frameworks", "car", "travels"],
+  askMeAbout: ["web development", "frameworks", "european cars", "dogs", "travels"],
   git: ["github", "gitlab", "github enterprise"],
-  architecture: ["Single Page Application", "Server Side Render", "Progressive Web Apps", "Web application"]
+  architecture: ["Single Page Application", "Server Side Render", "Progressive Web Apps", "Web application"],
   funFact: "First developing experience at 13 years old"
 }
 ```
