@@ -5,7 +5,7 @@ I am a Frontend Developer with highly skilled React and Angular, but my competit
 
 ```javascript
 const amadeuszblanik = {
-  pronouns: "He" | "Him",
+  pronouns: ["He", "Him"],
   code: ["Javascript", "Typescript", "php"],
   technologies: {
     frontend: {
