@@ -42,4 +42,4 @@ const amadeuszblanik = {
 * web: [blanik.me](https://blanik.me)
 * linked-in: [Amadeusz Blanik](https://www.linkedin.com/public-profile/in/amadeuszblanik)
 
-![Profile views](https://gpvc.arturio.dev/amadeuszblanik)
+![Profile views](https://rushter.com/counter.svg)
