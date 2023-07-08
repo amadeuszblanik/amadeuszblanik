@@ -9,7 +9,7 @@ const amadeuszblanik = {
   code: ["Javascript", "Typescript", "php"],
   technologies: {
     frontend: {
-      js: ["ES6+", "TypeScript", "React", "Next.JS", "Angular", "Vue.JS", "Redux", "NgRX", "RxJS"],
+      js: ["ES6+", "TypeScript", "React", "Next.JS", "Angular", "Redux", "NgRX", "RxJS"],
       css: ["styled-components", "css-in-js", "sass/css", "post-css", "stylus", "less"],
       misc: ["Webpack", "GULP", "i18n", "REST API"]
     },
@@ -22,7 +22,8 @@ const amadeuszblanik = {
     },
     mobile: {
       ios: ["Swift", "Swift UI", "Alamofire", "Realm"]
-      android: ["Kotlin", "Java", "Realm"]
+      android: ["Kotlin", "Realm"],
+      hybrid: ["Kotlin Multiplatform Mobile", "Flutter", "React-native"]
     },
     devOps: ["AWS", "Docker", "Nginx", "Apache 2.4+" "DigitalOcean"],
     ciCd: true,
