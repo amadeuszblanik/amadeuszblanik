@@ -6,7 +6,7 @@ I am a Frontend Developer with highly skilled React and Angular, but my competit
 ```javascript
 const amadeuszblanik = {
   pronouns: ["He", "Him"],
-  code: ["Javascript", "Typescript", "php"],
+  code: ["Frontend", "Mobile", "Backend"],
   technologies: {
     frontend: {
       js: ["ES6+", "TypeScript", "React", "Next.JS", "Angular", "Redux", "NgRX", "RxJS"],
