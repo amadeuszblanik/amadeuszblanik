@@ -41,5 +41,3 @@ const amadeuszblanik = {
 * mail: [amadeusz@blanik.me](mailto:amadeusz@blanik.me)
 * web: [blanik.me](https://blanik.me)
 * linked-in: [Amadeusz Blanik](https://www.linkedin.com/public-profile/in/amadeuszblanik)
-
-![Profile views](https://rushter.com/counter.svg)
